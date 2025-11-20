@@ -14,7 +14,7 @@ let package = Package(
       .binaryTarget(
          name: "FlexPaySharedKit",
          url: "https://github.com/bayoli-j/FlexPay-Multiplaforme-SDK/releases/download/Release/FlexPaySharedKit.zip",
-         checksum:"255063797a83dac72c0b765a2141424354786e7f19b91b24341d1a6e38f6d985"
+         checksum:"1bcf0f2e2c2b39a37e86b8657c53cb2a3d5e3eade80e273c234877c969b26b1a"
          )
    ]
 )
